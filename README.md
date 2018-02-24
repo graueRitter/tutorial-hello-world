@@ -13,3 +13,6 @@ Next test: New branch:
  - changed to 'Windows/DOS' end of line in editor settings on KDevelop (?also Kate?).
 
  \n2018-02-24T08:27Z - just a new commit, to check `git log --graph`.\n
+ 
+ Branch1 change.
+ 
