@@ -11,3 +11,5 @@ Next test: New branch:
 - created new branch "EndOfLine" and checked out.
 -line feeds not visible in uploaded file.
  - changed to 'Windows/DOS' end of line in editor settings on KDevelop (?also Kate?).
+
+ \n2018-02-24T08:27Z - just a new commit, to check `git log --graph`.\n
