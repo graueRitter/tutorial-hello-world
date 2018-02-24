@@ -14,5 +14,9 @@ Next test: New branch:
 
  \n2018-02-24T08:27Z - just a new commit, to check `git log --graph`.\n
  
+<<<<<<< HEAD
  Branch0 change.
+=======
+ Branch1 change.
+>>>>>>> branch1
  
