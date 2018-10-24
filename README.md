@@ -14,9 +14,4 @@ Next test: New branch:
 
  \n2018-02-24T08:27Z - just a new commit, to check `git log --graph`.\n
  
-<<<<<<< HEAD
- Branch0 change.
-=======
- Branch1 change.
->>>>>>> branch1
- 
+2018-10-24T01:30Z: remove lines, check if online editing counts as commit and if using signing key,
