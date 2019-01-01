@@ -6,7 +6,7 @@ Architecture is a 'building block' architecture, with base install scripts, and 
 
 Naming convention:
 
-<v|p>_<svr|wks>_<description>|<r_<role_name>.sh
+<v|p>\_<svr|wks>\_\<description>|<r_<role_name>.sh
 
 Where:
 * 'v':			indicates for virtual guest base install (tested on qemu version 2.12.1-1).
