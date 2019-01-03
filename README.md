@@ -1,4 +1,8 @@
 # tutorial-hello-world
+!********************************************************************************************!
+!***** Do not fork or clone this repository - subject to hsitroy rewrite without notice *****!
+!********************************************************************************************!
+
 Initial learning tutorial walk through
 
 Adding readme-edits branch changes.
@@ -14,4 +18,4 @@ Next test: New branch:
 
  \n2018-02-24T08:27Z - just a new commit, to check `git log --graph`.\n
  
-2018-10-24T01:30Z: remove lines, check if online editing counts as commit and if using signing key,
+
