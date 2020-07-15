@@ -23,3 +23,6 @@ Next test: New branch:
  2020-06-24: git update and commit via KDevelop 5.5.2.
  
 
+
+2020-07-15: test: command line git merge with key with added uid (but no revoke of old one).
+
